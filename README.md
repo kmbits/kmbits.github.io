@@ -1,2 +1,2 @@
 # kmbits.github.io
-hello Friends 
+hello Friends  all
